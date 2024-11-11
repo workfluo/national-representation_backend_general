@@ -1,0 +1,29 @@
+{
+  "name": "general",
+  "version": "1.0.0",
+  "description": "Routing part of the Rest API backend for national-representation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workfluo/national-representation_backend_general.git"
+  },
+  "keywords": [
+    "expressjs",
+    "rest",
+    "api",
+    "backend",
+    "national-representation"
+  ],
+  "author": "David-Olivier Ribault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workfluo/national-representation_backend_general/issues"
+  },
+  "homepage": "https://github.com/workfluo/national-representation_backend_general#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
